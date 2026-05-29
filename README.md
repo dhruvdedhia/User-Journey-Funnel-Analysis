@@ -17,9 +17,13 @@ Automated recommendations engine surfaced the top 3 prioritised business fixes b
 ToolUsagePython (pandas, NumPy)Data cleaning, transformation, analytics engineSQLSegmented conversion queries by device, city, traffic sourcePlotly DashInteractive dashboard with live recommendationsSciPyChi-square A/B significance testing
 
 📁 Project Structure
+
 ├── sql/              # SQL queries for funnel segmentation
+
 ├── dashboard/        # Plotly Dash app and layout
+
 ├── utils/            # Helper functions and analytics engine
+
 └── .gitignore
 
 🚀 How to Run
