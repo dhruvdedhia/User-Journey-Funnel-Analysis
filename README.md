@@ -1,13 +1,15 @@
 User Journey Funnel Analysis
-An end-to-end data analytics project analysing e-commerce user drop-off across a 4-stage conversion funnel — identifying where users are lost and why, using Python, SQL, and an interactive Plotly Dash dashboard.
+An end-to-end data analytics project analysing e-commerce user drop-off across a 4-stage conversion funnel identifying where users are lost and why, using Python, SQL, and an interactive Plotly Dash dashboard.
 
 📊 Project Overview
 This project analyses the behaviour of 15,000 e-commerce users across a 4-stage funnel:
+
 Visit → Signup → Cart → Purchase
+
 The goal was to identify where and why users drop off, segment behaviour by device, city, and traffic source, and surface prioritised recommendations to improve conversion rates.
 
 🔑 Key Findings
-Mobile converts 40% below desktop despite accounting for 55% of total traffic — the single biggest revenue leakage point
+Mobile converts 40% below desktop despite accounting for 55% of total traffic the single biggest revenue leakage point
 Significant drop-off identified between the Cart and Purchase stages across all devices
 Chi-square significance testing confirmed device type as a statistically significant driver of conversion differences
 Automated recommendations engine surfaced the top 3 prioritised business fixes based on live data
@@ -39,10 +41,10 @@ python dashboard/app.py
 
 💡 Business Impact
 
-Identified mobile UX as the primary conversion bottleneck — actionable insight for product and engineering teams
+Identified mobile UX as the primary conversion bottleneck actionable insight for product and engineering teams
 Automated recommendations engine removes manual analysis, enabling faster decision-making
 Statistical validation ensures findings are reliable, not coincidental
 
 
 👤 Author
-Dhruv Dedhia — Data Analyst | MSc Data Science, University of Surrey
+Dhruv Dedhia - Data Analyst | MSc Data Science, University of Surrey
